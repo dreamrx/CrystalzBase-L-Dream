@@ -1,0 +1,16 @@
+/* Viewthread */
+.plbmsp { 
+	transition: all 0.30s ease-in-out;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	box-shadow: 0 0 5px #BEBEBE; 
+	-webkit-box-shadow: 0 0 5px #BEBEBE; 
+	-moz-box-shadow: 0 0 5px #BEBEBE;
+	border: 1px solid #EDEDED;
+	}
+.plbmsp:hover {
+	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	-webkit-box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	-moz-box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	border: 1px solid rgba(81, 203, 238, 1);
+	}
